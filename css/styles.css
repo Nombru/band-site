@@ -1,0 +1,31 @@
+.shigeto-img img{
+  width: 300px;
+  height: auto;
+  float: left;
+}
+
+.sidebar {
+  margin: 30px;
+  padding: 20px;
+  border: 3px dotted #A52A2A;
+  
+}
+
+.column1 {
+  margin: 30px;
+  border: 2px solid ##800080;
+  padding: 4px;
+  background-color: #C0C0C0;
+  width: 50%;
+
+}
+
+.column2 {
+  margin: 30px;
+  border: 2px solid #ADD8E6;
+  padding: 4px;
+  background-color: #C0C0C0;
+  width: 50%;
+
+
+}
